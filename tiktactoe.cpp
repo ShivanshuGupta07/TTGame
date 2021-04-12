@@ -84,6 +84,12 @@ x=check();
   player++; 
 } 
     
+    
+
+
+
+
+
     while(x==-1);
     board();
     if(x==1)
