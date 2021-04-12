@@ -82,7 +82,9 @@ do
 
 x=check();
   player++; 
-} while(x==-1);
+} 
+    
+    while(x==-1);
     board();
     if(x==1)
     cout<<"Congo!!!! Player "<<--player<<" Win";
